@@ -1,0 +1,15 @@
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\bin\Debug\net6.0\SudokuSolver.exe
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\bin\Debug\net6.0\SudokuSolver.deps.json
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\bin\Debug\net6.0\SudokuSolver.runtimeconfig.json
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\bin\Debug\net6.0\SudokuSolver.dll
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\bin\Debug\net6.0\SudokuSolver.pdb
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\obj\Debug\net6.0\SudokuSolver.csproj.AssemblyReference.cache
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\obj\Debug\net6.0\SudokuSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\obj\Debug\net6.0\SudokuSolver.AssemblyInfoInputs.cache
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\obj\Debug\net6.0\SudokuSolver.AssemblyInfo.cs
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\obj\Debug\net6.0\SudokuSolver.csproj.CoreCompileInputs.cache
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\obj\Debug\net6.0\SudokuSolver.dll
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\obj\Debug\net6.0\refint\SudokuSolver.dll
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\obj\Debug\net6.0\SudokuSolver.pdb
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\obj\Debug\net6.0\SudokuSolver.genruntimeconfig.cache
+C:\Users\TopAide\source\repos\SudokuSolver\SudokuSolver\obj\Debug\net6.0\ref\SudokuSolver.dll
