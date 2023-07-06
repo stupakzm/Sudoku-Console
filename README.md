@@ -3,6 +3,7 @@
 This is a C# implementation of a Sudoku solver. The program uses a backtracking algorithm to solve a given Sudoku puzzle.
 
 ****How It Works****
+
 **The SudokuSolver class contains the following methods:**
 
 **SolveSudoku(int[,] board):** This method takes a 2D integer array representing the Sudoku board as input and attempts to solve the puzzle. It uses a backtracking algorithm to find a valid solution. The method returns true if a solution is found, and false otherwise.
@@ -15,6 +16,7 @@ This is a C# implementation of a Sudoku solver. The program uses a backtracking 
 
 
 ****Usage****
+
 To use the Sudoku solver, you can create an instance of the SudokuSolver class and call the SolveSudoku method, passing in a Sudoku board as a 2D integer array. The solver will modify the board in-place, filling in the missing numbers to solve the puzzle.
 
 
