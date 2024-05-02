@@ -24,20 +24,20 @@ Green: Marks cells that cannot be changed (initial numbers of the puzzle).
 
 **Game Progress and Logging**
 
-Undo Actions: The game supports undoing the last action, allowing players to correct mistakes without restarting the game.
-Game Logs: Each action (insert, replace, hint) is logged for potential review, providing insights into the game progress.
-Stopwatch: A built-in timer keeps track of the duration spent on the current game, encouraging players to improve their solving speed.
+- Undo Actions: The game supports undoing the last action, allowing players to correct mistakes without restarting the game.
+- Game Logs: Each action (insert, replace, hint) is logged for potential review, providing insights into the game progress.
+- Stopwatch: A built-in timer keeps track of the duration spent on the current game, encouraging players to improve their solving speed.
 
 **Endgame and Restart**
 
-Completion Check: The game checks if the board is completely and correctly filled. Upon successful completion, a congratulatory message is displayed, including the time taken to complete the puzzle and the number of digits initially removed.
-Restart Options: Players can start a new game or adjust the number of digits removed for a new challenge without exiting the program.
+- Completion Check: The game checks if the board is completely and correctly filled. Upon successful completion, a congratulatory message is displayed, including the time taken to complete the puzzle and the number of digits initially removed.
+- Restart Options: Players can start a new game or adjust the number of digits removed for a new challenge without exiting the program.
 
 **Technical Implementation**
 
-Data Structures: The game utilizes matrices to store the board states and boolean arrays to track which cells contain initial numbers versus player-added numbers.
-Custom Commands and Input Handling: Implements custom command handling for game actions like requesting hints, undoing moves, or restarting the game, enhancing interactive gameplay.
-Performance Optimization: Utilizes efficient algorithms to ensure that the game's performance remains optimal, even with complex board states and frequent updates.
+- Data Structures: The game utilizes matrices to store the board states and boolean arrays to track which cells contain initial numbers versus player-added numbers.
+- Custom Commands and Input Handling: Implements custom command handling for game actions like requesting hints, undoing moves, or restarting the game, enhancing interactive gameplay.
+- Performance Optimization: Utilizes efficient algorithms to ensure that the game's performance remains optimal, even with complex board states and frequent updates.
 
 
 This console-based Sudoku game combines traditional Sudoku gameplay with the convenience of a command-line interface, tailored for both beginners and seasoned players looking for a quick Sudoku challenge.
