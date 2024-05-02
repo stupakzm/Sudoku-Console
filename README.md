@@ -33,6 +33,8 @@ Green: Marks cells that cannot be changed (initial numbers of the puzzle).
 - Completion Check: The game checks if the board is completely and correctly filled. Upon successful completion, a congratulatory message is displayed, including the time taken to complete the puzzle and the number of digits initially removed.
 - Restart Options: Players can start a new game or adjust the number of digits removed for a new challenge without exiting the program.
 
+![Sudoku](https://github.com/stupakzm/Sudoku-Console/blob/main/sudokuEx.png)
+
 **Technical Implementation**
 
 - Data Structures: The game utilizes matrices to store the board states and boolean arrays to track which cells contain initial numbers versus player-added numbers.
